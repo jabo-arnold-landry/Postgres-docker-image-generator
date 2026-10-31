@@ -1,4 +1,4 @@
-# Postgres Image Creation CLI
+# Postgres Docker Image Generator CLI tool
 
 Create a ready-to-run PostgreSQL Docker Compose file from a short interactive
 prompt. The CLI asks for database credentials and optional container settings,
